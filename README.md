@@ -4,15 +4,6 @@
 </p>
 
 
----
-
-# Hi, I'm Bhalaganapathy
-
----
-
-**B.Tech Computer Science and Engineering Student (3rd Year)**
-
----
 
 ## Skills
 
