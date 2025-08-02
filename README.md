@@ -38,6 +38,10 @@
 
 ---
 
+## Resume
+- My resume : "./BHALAGANAPATHY M (1).pdf"
+
+---
 ## GitHub Stats & Activity
 
 <p align="center">
