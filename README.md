@@ -1,64 +1,56 @@
-<!-- Typing effect banner -->
+<!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Bhalaganapathy;Computer+Science+Engineering+Student;Python+Developer+%7C+Tech+Enthusiast;Building+Projects+and+Solving+Problems;Continuously+Learning+and+Improving" alt="Typing SVG" />
-</p>
-
-##  Skills
-
-### **Technical Skills**
-- **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL   
-- **Tools & IDEs:** GitHub, VS Code,Jupyter Notebook  
-- **IoT & Embedded Systems:** ESP32, Arduino  
-- **Database:** MongoDB, DBMS  
-- **Others:** Prompt Engineering
-
-### **Data Science & Analytics**
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Concepts:** AI/ML Model Building, CSV Data Handling, Data Visualization  
-- **Tools:** Power BI, Jupyter Notebook
-
-### **Soft Skills**
-- Problem Solving  
-- Team Collaboration  
-- Quick Learning  
-- Adaptability
-
----
-
-## Projects
-
-  See my repos at [github.com/bhalaganapathy](https://github.com/BGM-007)
-
----
-
-## Social Links
-
-- [LinkedIn](www.linkedin.com/in/bhalaganapathy-m-356302293)  
-- My portfolio :  https://bgm-007.github.io
-
----
-
-## Resume
-- [View My Resume](https://drive.google.com/file/d/1iHL5CcV7ZmUVL_5PieFevliKJjxfVPzw/view?usp=drive_link)
-
----
-## GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGM-007&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGM-007&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGM-007&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3CBAC6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bhalaganapathy+(BGM);Computer+Science+Engineering+Student;Python+%7C+Data+Science+%7C+AI+Enthusiast;I+Love+Building+Projects+and+Solving+Problems;Welcome+to+my+GitHub+World!" alt="Typing SVG" />
 </p>
 
 ---
 
-## Vibe
-
-Professional, clean, and learner-focused with a touch of creativity.
+### 💻 About Me
+- 🎓 3rd Year **B.Tech CSE** Student  
+- 🐍 Passionate about **Python**, **AI/ML**, and **Web Development**
+- 🛠️ Currently learning **PyTorch**, **SQL**, and **Data Analytics**
+- 🚀 Building real-world projects & solving problems on Skillrack and GitHub
+- 🌱 Always exploring new technologies & tools
 
 ---
 
-*Feel free to connect or check out my work!*
+### 🛠️ Tech Stack
+
+| Domain        | Tools & Technologies |
+|---------------|----------------------|
+| 💻 Languages   | Python, Java, SQL, HTML, CSS, JavaScript |
+| 📊 Data Skills | Pandas, NumPy, Matplotlib, Excel |
+| 🔧 Tools       | Git, GitHub, VS Code, Jupyter Notebook |
+| ⚙️ Concepts    | OOP, DBMS, Data Structures, Discrete Math |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BGM-007&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhalaganapathy&theme=radical&hide_border=true" width="49%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/bhalaganapathy-m-356302293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- 🔍 I debug more than I code sometimes 😅
+- 💡 I believe: "Learning never stops"
+- 🧠 Favorite Quote: *“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
+> _Let's build. Let's innovate. Let's solve problems together._ 🚀  
+> ⭐️ _Don’t forget to star your favorite repos!_
+
