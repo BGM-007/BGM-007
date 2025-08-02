@@ -6,8 +6,7 @@
 ##  Skills
 
 ### **Technical Skills**
-- **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL  
-- **Web Development:** Flask (Basic), Tailwind CSS, Bootstrap  
+- **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL   
 - **Tools & IDEs:** GitHub, VS Code, Skillrack, Jupyter Notebook  
 - **IoT & Embedded Systems:** ESP32, Arduino  
 - **Database:** MongoDB, DBMS  
