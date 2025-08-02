@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BGM-007&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhalaganapathy&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGM-007&theme=radical&hide_border=true" width="49%" />
 </p>
 
 ---
