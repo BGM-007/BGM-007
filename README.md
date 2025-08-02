@@ -7,7 +7,7 @@
 
 ### **Technical Skills**
 - **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL   
-- **Tools & IDEs:** GitHub, VS Code, Skillrack, Jupyter Notebook  
+- **Tools & IDEs:** GitHub, VS Code,Jupyter Notebook  
 - **IoT & Embedded Systems:** ESP32, Arduino  
 - **Database:** MongoDB, DBMS  
 - **Others:** Prompt Engineering
@@ -39,7 +39,7 @@
 ---
 
 ## Resume
-- My resume : "./BHALAGANAPATHY M (1).pdf"
+- [View My Resume](https://drive.google.com/file/d/1iHL5CcV7ZmUVL_5PieFevliKJjxfVPzw/view?usp=drive_link)
 
 ---
 ## GitHub Stats & Activity
