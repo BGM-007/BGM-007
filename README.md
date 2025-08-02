@@ -44,10 +44,7 @@
 
 ---
 
-### ⚡ Fun Facts
-- 🔍 I debug more than I code sometimes 😅
-- 💡 I believe: "Learning never stops"
-- 🧠 Favorite Quote: *“Code is like humor. When you have to explain it, it’s bad.”*
+   *“Code is like humor. When you have to explain it, it’s bad.”*
 
 ---
 
