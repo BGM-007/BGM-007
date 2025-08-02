@@ -1,7 +1,8 @@
 <!-- Typing effect banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bhalaganapathy;CSE+Student+%7C+Python+Lover;Web+Dev+%7C+Project+Builder;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Bhalaganapathy;Computer+Science+Engineering+Student;Python+Developer+%7C+Tech+Enthusiast;Building+Projects+and+Solving+Problems;Continuously+Learning+and+Improving" alt="Typing SVG" />
 </p>
+
 
 ---
 
