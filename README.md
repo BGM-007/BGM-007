@@ -3,36 +3,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Bhalaganapathy;Computer+Science+Engineering+Student;Python+Developer+%7C+Tech+Enthusiast;Building+Projects+and+Solving+Problems;Continuously+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
+##  Skills
 
-
-## Skills
-
-### Technical Skills
+### **Technical Skills**
 - **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL  
 - **Web Development:** Flask (Basic), Tailwind CSS, Bootstrap  
-- **Tools:** GitHub, VS Code, Skillrack, Jupyter Notebook
+- **Tools & IDEs:** GitHub, VS Code, Skillrack, Jupyter Notebook  
+- **IoT & Embedded Systems:** ESP32, Arduino  
+- **Database:** MongoDB, DBMS  
+- **Others:** Prompt Engineering
 
-### Soft Skills
-- Teamwork  
-- Fast Learner  
-- Communication  
-- Time Management  
-- Problem Solving
+### **Data Science & Analytics**
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Concepts:** AI/ML Model Building, CSV Data Handling, Data Visualization  
+- **Tools:** Power BI, Jupyter Notebook
+
+### **Soft Skills**
+- Problem Solving  
+- Team Collaboration  
+- Quick Learning  
+- Adaptability
 
 ---
 
 ## Projects
 
-
-  See my repos at [github.com/bhalaganapathy](https://github.com/bhalaganapathy)
+  See my repos at [github.com/bhalaganapathy](https://github.com/BGM-007)
 
 ---
 
 ## Social Links
 
-- [LinkedIn](https://linkedin.com/in/bhalaganapathy)  
-- [GitHub](https://github.com/bhalaganapathy)  
-- My portfolio :  bgm-007.github.io
+- [LinkedIn](www.linkedin.com/in/bhalaganapathy-m-356302293)  
+- My portfolio :  https://bgm-007.github.io
 
 ---
 
