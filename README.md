@@ -46,15 +46,6 @@
 
 ---
 
-## Awards & Certifications
-
-- Completed over 300+ Skillrack problems  
-- Participated in Tata Technologies INNOVENT 2025  
-- Certifications in SQL and Python  
-  *(List cert names and links here if available)*
-
----
-
 ## Social Links
 
 - [LinkedIn](https://linkedin.com/in/bhalaganapathy)  
@@ -71,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhalaganapathy&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGM-007&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
