@@ -9,7 +9,6 @@
 
 ---
 
-## Profession / Current Role
 **B.Tech Computer Science and Engineering Student (3rd Year)**
 
 ---
@@ -17,7 +16,7 @@
 ## Skills
 
 ### Technical Skills
-- **Languages:** Python (Strong), Java (Intermediate), HTML/CSS, JavaScript, SQL  
+- **Languages:** Python (Strong), Java (Basic), HTML/CSS, JavaScript, SQL  
 - **Web Development:** Flask (Basic), Tailwind CSS, Bootstrap  
 - **Tools:** GitHub, VS Code, Skillrack, Jupyter Notebook
 
@@ -32,16 +31,7 @@
 
 ## Projects
 
-- **AI-Powered Digital Twin for Electric Motors**  
-  Multimodal 3D generation and simulation system.
 
-- **Personal Portfolio Website**  
-  Built with HTML, CSS, and JavaScript.
-
-- **Blood Bank Network System**  
-  Final project with GitHub integration.
-
-- **More Projects:**  
   See my repos at [github.com/bhalaganapathy](https://github.com/bhalaganapathy)
 
 ---
