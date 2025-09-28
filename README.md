@@ -1,6 +1,6 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=36&duration=4000&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Bhalaganapathy;Data+Scientist;Crafting+Projects+%26+Solving+Real+Problems!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=36&duration=4000&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Bhalaganapathy;Data+Engineer;Crafting+Projects+%26+Solving+Real+Problems!" alt="Typing SVG" /> 
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 💻 About Me
 - 🎓 3rd Year **B.Tech CSE** Student  
 - 🐍 Passionate about **Python**, **AI/ML**, and **Web Development**
-- 🛠️ Currently learning **PyTorch**, **SQL**, and **Data Analytics**
+- 🛠️ Currently learning **PySpark**, **SQL**, and **Data Engineering**
 - 🚀 Building real-world projects & solving problems on Skillrack and GitHub
 - 🌱 Always exploring new technologies & tools
 
