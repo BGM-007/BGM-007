@@ -37,7 +37,7 @@
 ###  Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/bhalaganapathym" target="_blank">
+  <a href="linkedin.com/bhalaganapathym" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
