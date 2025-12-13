@@ -5,27 +5,27 @@
 
 ---
 
-### 💻 About Me
-- 🎓 3rd Year **B.Tech CSE** Student  
-- 🐍 Passionate about **Python**, **AI/ML**, and **Web Development**
-- 🛠️ Currently learning **PySpark**, **SQL**, and **Data Engineering**
-- 🚀 Building real-world projects & solving problems on Skillrack and GitHub
-- 🌱 Always exploring new technologies & tools
+### About Me
+- 3rd Year **B.Tech CSE** Student  
+- Passionate about **Python**, **AI/ML**, and **Web Development**
+- Currently learning **PySpark**, **SQL**, and **Data Engineering**
+- Building real-world projects & solving problems on Skillrack and GitHub
+- Always exploring new technologies & tools
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Domain        | Tools & Technologies |
 |---------------|----------------------|
-| 💻 Languages   | Python, Java, SQL, HTML, CSS, JavaScript |
-| 📊 Data Skills | Pandas, NumPy, Matplotlib, Excel |
-| 🔧 Tools       | Git, GitHub, VS Code, Jupyter Notebook |
-| ⚙️ Concepts    | OOP, DBMS, Data Structures, Discrete Math |
+|  Languages   | Python, Java, SQL, HTML, CSS, JavaScript |
+|  Data Skills | Pandas, NumPy, Matplotlib, Excel |
+|  Tools       | Git, GitHub, VS Code, Jupyter Notebook |
+|  Concepts    | OOP, DBMS, Data Structures, Discrete Math |
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BGM-007&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="www.linkedin.com/in/bhalaganapathy-m-356302293" target="_blank">
@@ -48,6 +48,6 @@
 
 ---
 
-> _Let's build. Let's innovate. Let's solve problems together._ 🚀  
+> _Let's build. Let's innovate. Let's solve problems together._   
 > ⭐️ _Don’t forget to star your favorite repos!_
 
