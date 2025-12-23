@@ -37,16 +37,14 @@
 
 ###  Connect with Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/bhalaganapathym">
-</p>
+<a href = "www.linkedin.com/in/bhalaganapathym"> LINKEDIN </a>
 
 ---
 
-   *“Code is like humor. When you have to explain it, it’s bad.”*
+   <center>*“Code is like humor. When you have to explain it, it’s bad.”*</center>
 
 ---
 
 > _Let's build. Let's innovate. Let's solve problems together._   
-> ⭐️ _Don’t forget to star your favorite repos!_
+
 
