@@ -39,8 +39,6 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/bhalaganapathym">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
