@@ -18,7 +18,8 @@
 
 | Domain        | Tools & Technologies |
 |---------------|----------------------|
-|  Languages   | Python, Java, SQL, HTML, CSS, JavaScript |
+|  Languages   | Python, Java, SQL |
+|Web Technologies | HTML , CSS , JS |
 |  Data Skills | Pandas, NumPy, Matplotlib, Excel |
 |  Tools       | Git, GitHub, VS Code, Jupyter Notebook |
 |  Concepts    | OOP, DBMS, Data Structures, Discrete Math |
