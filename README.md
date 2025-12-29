@@ -7,8 +7,8 @@
 
 ### About Me
 - 3rd Year **B.Tech CSE** Student  
-- Passionate about **Python**, **AI/ML**, and **Web Development**
-- Currently learning **PySpark**, **SQL**, and **Data Engineering**
+- Passionate about **Python** and **Data Engineering**
+- Currently learning **PySpark**, **SQL**.
 - Building real-world projects & solving problems on Skillrack and GitHub
 - Always exploring new technologies & tools
 
